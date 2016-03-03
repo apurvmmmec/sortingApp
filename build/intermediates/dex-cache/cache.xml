@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apurv/code/apurv/sortingApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/apurv/code/apurv/sortingApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-821befc2dff7bdae92ae257646f96f3a72f93935.jar" />
+    </item>
+    <item
+        jar="/Users/apurv/code/apurv/sortingApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/apurv/code/apurv/sortingApp/app/build/intermediates/pre-dexed/debug/classes-643ea0a8e1ac728b3aac252ba5bfac9a8327b520.jar" />
+    </item>
+    <item
+        jar="/Users/apurv/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/apurv/code/apurv/sortingApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-2286f83370b411b0927c2860ef795d9201354fba.jar" />
+    </item>
+    <item
+        jar="/Users/apurv/code/apurv/sortingApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/apurv/code/apurv/sortingApp/app/build/intermediates/pre-dexed/debug/classes-313e8763f33d603a286d7eefba16f59a0793de5c.jar" />
+    </item>
+    <item
+        jar="/Users/apurv/.gradle/caches/modules-2/files-2.1/org.mod4j.org.apache.commons/lang/2.1.0/c2200288f7c9dd4f9e8b647a95290f978362b567/lang-2.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2200288f7c9dd4f9e8b647a95290f978362b567">
+        <dex dex="/Users/apurv/code/apurv/sortingApp/app/build/intermediates/pre-dexed/debug/lang-2.1.0-39b220c54d443249c7f70f4db82c0823c68b4c16.jar" />
+    </item>
+
+</items>
